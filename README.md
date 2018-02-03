@@ -43,7 +43,7 @@ In this project I'll assume your Java project dir has this path for ease of unde
 - Follow the images.
 
 ### Basic
-- Work in progress
+![Basic](basic.png)
 
 
 # Info and tips
